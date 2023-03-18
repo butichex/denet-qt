@@ -1,0 +1,15 @@
+@import 'variables.scss';
+
+
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: var(--body-font);
+  font-size: var(--h3-font-size);
+  color: var(--text-color);
+  background-color: var(--body-color);
+  box-sizing: border-box;
+}
